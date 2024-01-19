@@ -1,0 +1,20 @@
+.content {
+    margin-left: 340px;
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(7, 5, 5, 0.5);
+    width: 500px;
+  }
+  .button-content {
+    text-align: center;
+  }
+  #p {
+    color: white;
+  }
+  #button-aff{
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+    font-family: "consolas";
+    font-size: 20px;
+  }
